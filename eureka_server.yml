@@ -15,6 +15,6 @@ eureka:
 spring:
   jackson:
     serialization:
-      indent_output: true
+      indent_output: false
 
 
