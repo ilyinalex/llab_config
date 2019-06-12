@@ -3,7 +3,7 @@ config:
 refresh:
   false
 server:
-  port: ${PORT:7777} # Indicate the default PORT where this service will be started
+  port: ${PORT:8888} # Indicate the default PORT where this service will be started
 
 eureka:
   client:
